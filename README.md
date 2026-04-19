@@ -33,3 +33,20 @@ Technical Skills:
 
 ---
 *Focusing on FinTechs, high performance, and Green AI. Currently pursuing an ADS degree.*
+
+
+### 💸 Calculadora de Imposto de Renda / Income Tax Calculator
+Algoritmo para cálculo de alíquota de IR baseado em faixas salariais, demonstrando precisão em regras de negócio financeiras.
+
+Technical Skills:
+* Estruturas condicionais (if / else if).
+* Cálculos de porcentagem e variáveis float.
+* Formatação de dados monetários (%.2f).
+
+### 🔢 Sequência de Fibonacci / Fibonacci Sequence
+Algoritmo clássico para geração de termos sequenciais, demonstrando domínio de estruturas de repetição e lógica de troca de variáveis.
+
+Technical Skills:
+* Estrutura de repetição (for).
+* Lógica de atribuição e atualização de variáveis.
+* Formatação de saída limpa no console.
