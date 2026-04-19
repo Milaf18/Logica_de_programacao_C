@@ -1,7 +1,12 @@
+/*
+ * Projeto: Cadastro de Cliente - Pousada
+ * Descrição: Sistema para coleta de dados cadastrais (Nome, Endereço e Telefone).
+ * Disciplina: Introdução à Lógica de Programação - UNIJORGE
+ */
+
 #include <stdio.h>
 
 int main() {
-
     char nome[100];
     char endereco[100];
     char telefone[11];
